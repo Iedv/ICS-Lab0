@@ -23,12 +23,12 @@
 
 遇到冲突：
 
-![alt text](image.png)
+![](image.png)
 
 解决中：
 
-![alt text](image-1.png)
+![](image-1.png)
 
 完成：
 
-![alt text](image-2.png)
+![](image-2.png)
